@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick.
 OK! This is add a new line.
+Creating a new brach is quick AND simple.
