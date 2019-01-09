@@ -10,4 +10,6 @@ This is a new row
 
 多人协作第二步，将服务器的Test文件进行修改，然后push。
 
+System.out.println("This is a new line");
+
 System.out.println("This is a beautiful city!");
