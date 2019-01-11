@@ -15,3 +15,4 @@ System.out.println("This is a new line");
 System.out.println("This is a beautiful city!");
 
 Do you want eat coffee?
+your yufa is not right,if you want to ask me , you can ask me "Do you wang to drink a coffee?",maybe i well say i wont to drink a Americano.
